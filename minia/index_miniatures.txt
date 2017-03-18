@@ -1,0 +1,8 @@
+./minia/1.jpg;./photos/Arbres.JPG
+./minia/2.jpg;./photos/Fort_Foch.JPG
+./minia/3.jpg;./photos/Fosse.JPG
+./minia/4.jpg;./photos/Historique_du chateau.JPG
+./minia/5.jpg;./photos/Moulin_des_pres.JPG
+./minia/6.jpg;./photos/Panneaux_Randonnees.JPG
+./minia/7.jpg;./photos/Plan 3D.JPG
+./minia/8.jpg;./photos/Pont_du_chateau.JPG
